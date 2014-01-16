@@ -55,12 +55,12 @@ and you're Done!
 Road Map
 ======
 
-1)Tests for all the key functionality.
-2)Wiki/documentation pages
-3)Support multiple CSVRecord types per package.
-4)Refactor the core CSV engine.
-5)Stabilize the API
-6)Implement JAX-RS provider wrapper.
-7)Implement Apache Camel Data Format wrapper.
+- [ ] Tests for all the key functionality.
+- [ ] Wiki/documentation pages
+- [ ] Support multiple CSVRecord types per package.
+- [ ] Refactor the core CSV engine.
+- [ ] Stabilize the API
+- [ ] Implement JAX-RS provider wrapper.
+- [ ] Implement Apache Camel Data Format wrapper.
 
 
