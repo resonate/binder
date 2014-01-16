@@ -7,6 +7,15 @@
     <groupId>com.resonateinisghts</groupId>
     <artifactId>binder</artifactId>
     <version>0.1-SNAPSHOT</version>
+    <name>Binder</name>
+    <description>Binder is an annotations-based POJO to CSV converter utility inspired by Apache Camel Bindy.</description>
+    <packaging>jar</packaging>
+    <url>https://github.com/resonate/binder</url>
+    <scm>
+         <url>https://github.com/resonate/binder.git</url>
+         <connection>https://github.com/resonate/binder/tree/master</connection>
+    </scm>
+
 
     <properties>
         <slf4j-version>1.7.5</slf4j-version>
@@ -44,4 +53,11 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <developers>
+      <developer>
+        <id>palvarado</id>
+        <name>Pedro Alvarado</name>
+        <email>ppvathegreat@gmail.com</email>
+      </developer>
+    </developers>    
 </project>
