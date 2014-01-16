@@ -12,10 +12,15 @@
     <packaging>jar</packaging>
     <url>https://github.com/resonate/binder</url>
     <scm>
-         <url>https://github.com/resonate/binder.git</url>
-         <connection>https://github.com/resonate/binder/tree/master</connection>
+         <url>https://github.com/resonate/binder/tree/master</url>
+         <connection>scm:git:git@github.com:resonate/binder.git</connection>
     </scm>
 
+    <parent>
+         <groupId>org.sonatype.oss</groupId>
+         <artifactId>oss-parent</artifactId>
+         <version>7</version>
+    </parent>
 
     <properties>
         <slf4j-version>1.7.5</slf4j-version>
