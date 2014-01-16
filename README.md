@@ -1,7 +1,7 @@
 binder
 ======
 
-Binder is an annotations based POJO to CSV converter utility.
+Binder is an annotations-based POJO to CSV converter utility.
 
 
 usage
